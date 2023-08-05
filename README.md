@@ -26,7 +26,7 @@ Please ensure that these API commands are allowed for the DirectAdmin login key 
 2. Update the `$allowed_domains` array with the domains you want to allow for email creation.
 3. Change the other mailbox properties to fit your environment.
     - `"quota" => 100"`: Sets the mailbox's quota in MB. In this case, the quota is set to 100 MB.
-    - `"limit" => 30"`: Sets the hourly send limit for the mailbox. In this case, the limit is set to 30 emails per hour.
+    - `"limit" => 30"`: Sets the daily send limit for the mailbox. In this case, the limit is set to 30 emails per day.
 
 ## License
 
