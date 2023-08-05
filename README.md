@@ -18,7 +18,7 @@ Please ensure that these API commands are allowed for the DirectAdmin login key 
 
 ## Usage
 
-1. Open `email.php` and replace the placeholders with your respective values:
+1. Open `create_email.php` and replace the placeholders with your respective values:
     - `<LOGINKEY>`: Your DirectAdmin login key.
     - `<ADMIN>`: Your DirectAdmin username.
     - `<AUTHKEY>`: The authorization code you want to use to secure the script.
